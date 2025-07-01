@@ -3,7 +3,7 @@ An end-to-end cloud-native pipeline to fetch Reddit posts, store raw data in Ama
 
 🧱 Architecture
 
-![Architecture Diagram](./redditetl.jpeg
+![Architecture Diagram](./redditetl.jpeg)
 
 
 This pipeline automates Reddit data collection, cleaning, and reporting:
