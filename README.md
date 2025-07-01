@@ -2,6 +2,8 @@
 An end-to-end cloud-native pipeline to fetch Reddit posts, store raw data in Amazon S3, clean it with AWS Glue, store it in Amazon Redshift, and visualize it using Power BI. The entire flow is automated.
 
 🧱 Architecture
+![Architecture Diagram](./redditetl.jpeg
+
 
 This pipeline automates Reddit data collection, cleaning, and reporting:
 
